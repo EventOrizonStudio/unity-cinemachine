@@ -41,5 +41,7 @@ Assets/#EventOrizon/LOD/
 /Assets/#EventOrizon/LOD
 Assets/UnityStuff
 Assets/UnityStuff/
-Assets/@private
-Assets/@private/
+#Assets/@private
+Assets/#EventOrizon/Cinemachine/@private/
+Assets/#EventOrizon/Cinemachine/@private.meta
+Assets/UnityStuff.meta
