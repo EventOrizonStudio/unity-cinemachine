@@ -37,11 +37,12 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\#EventOrizon\Cinemachine\@private\Step2-shake\ShakeListener.cs" />
-     <Compile Include="Assets\#EventOrizon\Cinemachine\@private\Step3-changeVC\SkyToFPS.cs" />
      <Compile Include="Assets\#EventOrizon\Cinemachine\Step1-FPS\CaraController.cs" />
      <Compile Include="Assets\#EventOrizon\Cinemachine\Step1-FPS\SwitchView.cs" />
+     <Compile Include="Assets\#EventOrizon\Cinemachine\Step3-changeVC\SkyToFPS.cs" />
      <Compile Include="Assets\UnityStuff\Scripts\SimpleCameraController.cs" />
      <Compile Include="Assets\UnityStuff\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\UnityStuff\test.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2019.4.11f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
